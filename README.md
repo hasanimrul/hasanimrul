@@ -4,4 +4,4 @@
 - 💬 Ask me about ReactJS, NextJS, NodeJS, ExpressJS
 - 🌱 I am currently learning backend development with GO
 - 📫 Email me toe: mohammadhasan.imrul@gmail.com
-- 📄 Get My Resume from here : <a href="[https://github.com/Murad9288](https://drive.google.com/file/d/1mFxv4MJ9miwCfqfqNk2nhTDqq2OHywov/view?usp=drivesdk )" target="_blank"> Resume</a>
+- 📄 Get My Resume from here :  [Resume]([url](https://drive.google.com/file/d/1mFxv4MJ9miwCfqfqNk2nhTDqq2OHywov/view?usp=drivesdk ))
