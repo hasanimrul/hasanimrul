@@ -1,7 +1,7 @@
 ### Hi 👋 I am Md. Imrul Hasan
 
-- 🔭 I’m currently working in Ashra Academy as a Nextjs Developer.
-- 💬 Ask me about ReactJS, NextJS, NodeJS, ExpressJS
+- 🔭 I’m currently working at Skyline Digital Solutions as a Software Engineer L1 (Frontend).
+- 💬 Ask me about ReactJS, NextJS 
 - 🌱 I am currently learning backend development with GO
-- 📫 Email me toe: mohammadhasan.imrul@gmail.com
-- 📄 Get My Resume from here : [Resume](https://drive.google.com/file/d/1mFxv4MJ9miwCfqfqNk2nhTDqq2OHywov/view?usp=drivesdk )
+- 📫 Email me to: mohammadhasan.imrul@gmail.com
+- 📄 Get My Resume from here : [Resume](https://drive.google.com/drive/u/0/folders/13KCUgNDq0pFZvRScY3T1z8Ts2kAFOkmJ )
