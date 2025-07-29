@@ -1,6 +1,6 @@
 ### Hi 👋 I am Md. Imrul Hasan
 
-- 🔭 I’m currently working at Skyline Digital Solutions as a Software Engineer L1 (Frontend).
+- 🔭 I’m currently working at Skyline Digital Solutions as a Software Engineer (Frontend).
 - 💬 Ask me about ReactJS, NextJS 
 - 🌱 I am currently learning backend development with GO
 - 📫 Email me to: mohammadhasan.imrul@gmail.com
